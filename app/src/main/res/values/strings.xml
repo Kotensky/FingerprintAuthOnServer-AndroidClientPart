@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fingerprint Auth</string>
+    <string name="device_unsupport_message">Даний пристрій не підходить для роботи з відбитком пальця</string>
+    <string name="device_unsupport_title">Помилка</string>
+    <string name="device_unsupport_close_btn">Закрити додаток</string>
+
+    <string name="cancel">Відміна</string>
+    <string name="sign_in">Логін</string>
+    <string name="ok">Ок</string>
+    <string name="fingerprint_description">Піднесіть палець до сканера</string>
+    <string name="fingerprint_description_trying_count">Піднесіть палець до сканера (залишилось спроб: %d)</string>
+    <string name="fingerprint_hint">Піднесіть палець до сканера</string>
+    <string name="fingerprint_not_recognized">Відбиток пальця не розпізнано. Спробуйте ще раз</string>
+    <string name="fingerprint_success">Відбиток пальця розпізнано</string>
+    <string name="new_fingerprint_enrolled_description">
+        Новий запис відбитків пальців. Введіть дані знову
+    </string>
+    <string name="fingerprint_exceeded_trying_count">Перевищено ліміт спроб. Введіть дані знову</string>
+
+    <string name="enter_ip">Введіть IP адресу серверу</string>
+    <string name="enter_login">Введіть логін</string>
+    <string name="enter_pass">Введіть пароль</string>
+    <string name="login">Увійти</string>
+    <string name="ip_empty_error">IP адреса не може бути пустою</string>
+    <string name="login_empty_error">Пароль не може бути пустим</string>
+    <string name="pass_empty_error">Логін не може бути пустим</string>
+    <string name="main_info">Натисніть на кнопку щоб увійти</string>
+    <string name="login_temp">Вітаю, %s!</string>
+    <string name="sign_in_successful">Вхід здійсно</string>
+    <string name="request_error">Дані не вірні. Авторизуйтесь ще раз</string>
+</resources>
